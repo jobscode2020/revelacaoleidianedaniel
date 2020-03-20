@@ -1,0 +1,32 @@
+span{
+	background: linear-gradient(to right,#f4399b, #d850be, #af65d9, #7877e8, #1283eb);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.girl {
+	background-color:#eb84bb;
+	border-radius:28px;
+	border:1px solid #d1649e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0d0b0d;
+}
+
+.boy {
+	background-color:#75bef5;
+	border-radius:28px;
+	border:1px solid #748bcf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #121929;
+}
